@@ -1,6 +1,6 @@
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
-Data Range: From January to June, 2018
+Data Range: Q1 2019 v Q1 2020
 
 Data Source: https://www.citibikenyc.com/system-data (Used 'CitiBike_Data_JantoJun_2018_Combined.ipynb' to combine large monthly datasets)
 
